@@ -125,14 +125,14 @@ cd Image-Classification-for-Disease-Detection---Brain-Tumor
 ### 2. Install Dependencies
 ```bash
 pip install tensorflow keras numpy pandas matplotlib seaborn scikit-learn opencv-python
-```bash
+```
 
 ### 3.Open the Notebook
 
 Launch Jupyter Notebook or Google Colab and run:
 ```bash
 Image_Classification_for_Disease_Detection_Brain_Tumor.ipynb
-```bash
+```
 
 ## 🧪 Project Workflow
 
