@@ -120,7 +120,7 @@ The notebook includes:
 ```bash
 git clone https://github.com/kavya-sree-chandhi/Image-Classification-for-Disease-Detection---Brain-Tumor.git
 cd Image-Classification-for-Disease-Detection---Brain-Tumor
-```bash
+```
 
 ### 2. Install Dependencies
 ```bash
